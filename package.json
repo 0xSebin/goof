@@ -35,7 +35,7 @@
     "moment": "2.19.3",
     "mongodb": "^3.5.9",
     "mongoose": "8.9.5",
-    "morgan": "latest",
+    "morgan": "1.10.1",
     "ms": "^2.0.0",
     "mysql": "^2.18.1",
     "npmconf": "2.1.3",
